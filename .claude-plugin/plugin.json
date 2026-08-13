@@ -1,0 +1,9 @@
+{
+  "name": "worldbuild",
+  "description": "Build a fictional universe on disk that is seeded from your own memory, then masked and transposed into myth. Includes a memory-interrogation protocol, a drift registry for questions the world must never answer, and a lineage check that every entry traces back to something a human supplied.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Brian Moriarty"
+  },
+  "license": "MIT"
+}
