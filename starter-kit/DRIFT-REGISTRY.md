@@ -10,8 +10,8 @@ This includes closing by inference. Writing prose that only makes sense if a dri
 resolves it, whatever the notes say. If an entry touches a held question, its provenance note must
 say which one and how it avoided settling it.
 
-**A drift is not a to-do item.** It is a load-bearing part of the world. Opening one is free and
-costs nothing; closing one spends depth for content and cannot be undone.
+**A drift is not a to-do item.** The world is built out of them. Opening one is free and costs
+nothing; closing one spends depth for content and cannot be undone.
 
 ## How to write one
 
