@@ -1,6 +1,6 @@
 ---
 name: worldbuild
-description: Build and maintain a fictional universe on disk that is seeded from the author's own memory, then masked and transposed into myth. Use when someone wants to start a story world, seed a world from their real life, add or deepen canon entries (figures, places, routes, legends, vignettes), establish or enforce the world's prose voice, choose and weight which writers the world is written through, keep a large invented world internally consistent, or run a bulk expansion pass. Triggers on "build a world", "worldbuilding", "story bible", "start a saga", "seed my world", "my universe", "canon", "expand the world", "the voice of the world", "writer influences", "dial in an influence", or a request to turn memories into fiction. Seeding is one question at a time and never a request for a list of memories.
+description: Build and maintain a fictional universe on disk that is seeded from the author's own memory, then masked and transposed into myth. Use when someone wants to start a story world, seed a world from their real life, add or deepen canon entries (figures, places, routes, legends, vignettes), establish or enforce the world's prose voice, choose and weight which writers the world is written through, keep a large invented world internally consistent, or run a bulk expansion pass. Triggers on "build a world", "worldbuilding", "story bible", "start a saga", "seed my world", "my universe", "canon", "expand the world", "the voice of the world", "writer influences", "dial in an influence", or a request to turn memories into fiction. Seeding is one question at a time, never a request for a list of memories, opens in the present tense (what is on your shelf, what is the weather doing), works by dictation as well as typing, and treats invented riffs as first-class roots.
 ---
 
 # Worldbuild
@@ -75,6 +75,18 @@ interrogation's job is to get that raw material on disk before any fiction is wr
 The interrogation is **generative, never investigative.** It asks for material the bible does not
 have. It is forbidden from interrogating material the bible already has: a gap in a captured
 memory is the room the story gets built in, not missing evidence to recover.
+
+Three things in there are easy to skip and should not be:
+
+- **Pass 0, the present tense.** Open with what is on the shelf they can see, what the weather is
+  doing, what they are eating tonight. Zero retrieval, no wrong answer, and it gets somebody talking
+  in specifics before anything is asked of their memory. **Capture the answers**; they are texture,
+  not small talk, and the bookshelf doubles as the least pressuring influence question there is.
+- **Dictated input changes the questions.** One clause each, menus of three, never two-part, and
+  never stop a live memory to spell a name. Section 4b.
+- **Riffs are roots.** What the author invents on the spot is a capture like any other and is
+  properly rooted. File it tagged, never as memory, never evaluated, and never built on in front of
+  them. Section 4c.
 
 ### 1. `capture` — record author material verbatim
 
@@ -163,7 +175,8 @@ rotation axes. Rotation is a measurable property, not a feeling.
 
 - `references/INTERROGATION.md` — the seeding protocol. Required for mode 0. **One question at a
   time, offered as a menu. It never asks the author for a list of places or memories: that is a
-  generation task under observation, and it returns a pause and four worn anecdotes.**
+  generation task under observation, and it returns a pause and four worn anecdotes.** Includes
+  Pass 0 (the present tense), section 4b (working by voice) and section 4c (riffs as roots).
 - `references/VOICE.md` — establishing a register, the machine tells, the output gate, enforcement.
   Required for mode 2b and before any prose.
 - `references/INFLUENCES.md` — choosing an influence set and running the dial. Required for 2c.

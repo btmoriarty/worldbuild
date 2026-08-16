@@ -105,6 +105,34 @@ you have them you can improvise a better question than the one written down.
 Run them in order. Each one unlocks the next. Do not jump to episodes first, which is what
 everybody wants to do and it is why most attempts produce four anecdotes and stall.
 
+### Pass 0 — The present tense (the warm-up, and it is not small talk)
+
+**Ask about right now.** What is on the shelf nearest them. What the weather is doing. What they are
+eating tonight. What is on the surface they are working at. What they can hear.
+
+**These cost nothing to answer, which is the entire point.** Every other pass asks somebody to search
+an unindexed store; this one asks them to look up. There is no wrong answer, nothing to fail at, and
+no need to decide whether a memory is worth telling. It gets a person talking in specifics inside one
+exchange, and a person already talking in specifics answers Pass 1 completely differently from a
+person starting cold.
+
+It is also the best opening when they are **speaking rather than typing**, because it can be answered
+while walking around the house.
+
+Three things it produces, none of them small talk:
+
+- **Texture, immediately.** What is on their windowsill tonight is exactly the wrong-sized concrete
+  detail that invention never supplies. Capture it like any other drop.
+- **Their taste, without asking for it.** *What books are on the shelf you can see* is the least
+  pressuring influence question in existence. Nobody has to nominate a favourite writer or defend a
+  canon; they read out what is physically there. Keep that list, because it is worth more later than
+  any answer to *who are your influences* (see `INFLUENCES.md`).
+- **A live seam.** People routinely dive from *what am I eating* into a whole vanished kitchen. When
+  that happens, go with it and abandon the warm-up.
+
+**Capture these answers.** The commonest error is treating Pass 0 as throat-clearing and not writing
+it down, and then losing the one specific thing said in the first two minutes.
+
 ### Pass 1 — One place, offered as a menu
 
 **Locations are recall hardware.** Asking about an event retrieves the story someone has already
@@ -247,6 +275,68 @@ something specific.
 Private idioms are the fastest route to a voice. Record who said it and **do not assume it was
 shared** with the person who reported it: an idiom often belongs to somebody else entirely.
 
+## 4b. Working by voice
+
+Dictation is the best input this method has, because speech is closer to memory than typing is and
+people say things aloud they would edit out in a text box. It changes how you ask and how you file.
+
+**Asking:**
+
+- **One clause per question.** A question that needs re-reading cannot be re-read.
+- **Menus of three, not five.** A spoken list past three items is a memory test, and they will answer
+  the last one because it is the only one still in their head.
+- **Never a two-part question.** *What was the floor, and who else worked there* returns one answer
+  and loses the other permanently.
+- **Keep your own replies short.** Everything you say is dead air between their turns.
+- **Reflect the map back in writing, never by reading it aloud.** A spoken list of twelve places is
+  unusable; the same list on screen prompts them to spot their own gaps.
+- **Silence is thinking.** Dictation has longer gaps than typing. Wait longer than feels right.
+
+**Filing:**
+
+- **Capture the raw transcript first and never overwrite it.** If you want a readable version, keep
+  it alongside, marked as the cleaned copy. The raw one is the datum.
+- **Do not tidy speech into prose.** False starts, repetitions and the order they arrived in are
+  information about how they think, and a tidied capture has been silently paraphrased, which the
+  rules above forbid.
+- **Transcription mangles proper nouns**, and proper nouns are the highest-value material in the
+  file. **Never guess a spelling into a capture.** Write what you heard, mark it `[sp?]`, and move on.
+- **Batch the spellings at the end, never mid-flow.** Stopping a live memory to spell a surname is
+  the most reliable way to end it. Collect them and confirm the lot afterwards.
+- **Distinguish disfluency from idiom, and when unsure keep it.** *Um, like, sort of* are usually
+  transcription artifacts. But a phrase that recurs is theirs, and deleting it removes exactly the
+  private language Pass 7 exists to collect.
+
+## 4c. Riffs: invention is a root, not a contaminant
+
+Some of what arrives will not be memory. It will be a fragment somebody invents mid-sentence, a wrong
+idea, a joke that turns out to be a whole legend. **Take it, and file it as a first-class root.**
+
+This is consistent with the law rather than an exception to it. The root set is the author's captures
+and the author's directives, and **an invented fragment supplied by the author is a capture.** What
+the law forbids is the engine feeding on its own output, not the author inventing. An entry that
+traces back to something they made up on a Tuesday is properly rooted.
+
+**File riffs separately and tag them** (`riff`, or a marked section of the captures file) for one
+reason only: so a later pass never mistakes an invention for something that happened. That
+distinction matters for masking, and it matters when the world is checked.
+
+How to run it:
+
+- **Never ask a riff to justify itself.** No *where did that come from*, no *what would that mean*.
+  Both convert a live idea into an exam question.
+- **Do not build on it in front of them.** Writing an entry the moment somebody says something
+  teaches them that every stray thought becomes homework, and they will start pre-filtering.
+- **Ask only for more.** *What else* and *keep going* cost nothing and are not praise.
+- **The no-grading rule still holds, but the failure it guards against is different here.** With
+  memory, praise produces performance. With invention the risk is self-censorship, so the job is to
+  make speaking costless without ever evaluating the content. Take everything with the same flat
+  interest and the tap stays open.
+- **Most riffs arrive attached to something else.** Somebody answering a question about a stairwell
+  will swerve into an idea about who is buried under it. Follow the swerve. Do not steer back.
+- **Do not sort them.** No good pile and no bad pile. The world decides later which ones mattered,
+  and it is routinely not the one anybody would have picked.
+
 ## 5. Filing what you get
 
 | What they gave you | Where it goes |
@@ -258,6 +348,9 @@ shared** with the person who reported it: an idiom often belongs to somebody els
 | An unresolved question | **The drift registry**, marked held, with a note that it is never to be closed |
 | An object | Capture, then the object register once it earns a scene |
 | A phrase | The lexicon, with attribution held upstream |
+| Something they invented on the spot | Captures, tagged `riff`, **never filed as memory**. A root like any other |
+| A present-tense detail from Pass 0 | Captures. It is texture, not small talk |
+| A book they read off their own shelf | The influence candidates list, not canon |
 
 For every capture, note three things: **what it could seed, what is mask-sensitive, and what must
 not be invented.** That third one is the guard rail a later pass will thank you for.

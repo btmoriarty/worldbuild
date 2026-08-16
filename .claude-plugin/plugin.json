@@ -1,7 +1,7 @@
 {
   "name": "worldbuild",
-  "description": "Build a fictional universe on disk that is seeded from your own memory, then masked and transposed into myth. Includes a low-pressure memory interrogation that never asks for a list, a voice system with a checker, an influence dial for weighting which writers the world is written through, a drift registry for questions the world must never answer, and a lineage check that every entry traces back to something a human supplied.",
-  "version": "0.2.0",
+  "description": "Build a fictional universe on disk that is seeded from your own memory, then masked and transposed into myth. A low-pressure interrogation that never asks for a list and opens in the present tense, tuned for dictation as well as typing, with invented riffs treated as first-class roots. Includes a voice system with a checker, an influence dial for weighting which writers the world is written through, a drift registry for questions the world must never answer, and a lineage check that every entry traces back to something a human supplied.",
+  "version": "0.3.0",
   "author": {
     "name": "Brian Moriarty"
   },
