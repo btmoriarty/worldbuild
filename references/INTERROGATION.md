@@ -105,19 +105,83 @@ you have them you can improvise a better question than the one written down.
 Run them in order. Each one unlocks the next. Do not jump to episodes first, which is what
 everybody wants to do and it is why most attempts produce four anecdotes and stall.
 
-### Pass 1 — Places, not events
+### Pass 1 — One place, offered as a menu
 
 **Locations are recall hardware.** Asking about an event retrieves the story someone has already
 told a hundred times, worn smooth. Asking about a *place* retrieves things they have never said
 out loud, because they have never had occasion to.
 
-Ask for a **list**, not stories. Ten to twenty of them. Rooms, buildings, routes, corners, the
-inside of a vehicle.
+**Ask for ONE. Never for a list.**
 
-> Name me some places you can still walk through in your head. Not important ones necessarily.
-> Rooms, buildings, a stretch of road, the inside of a car. Just the list for now.
+> **CORRECTED. This pass used to say: "Ask for a list, not stories. Ten to twenty of them."**
+> That was wrong, and wrong against this document's own reasoning. Rule 2 says never a
+> questionnaire, and the opening section says people cannot retrieve their own material on demand.
+> Asking somebody to name ten to twenty places is not a retrieval task, it is a *generation* task
+> performed under observation, with no cue and a quota attached. What it reliably produces is a
+> pause, an apology, and four worn anecdotes. The map below still gets built. The author is simply
+> never the one who has to build it.
 
-Write the list down. It is your map for everything that follows.
+Offer a small menu of ordinary doors and let them point at one. **Recognition is easy where recall
+is hard**, which is the whole reason a menu beats an open question here.
+
+> I'd rather start somewhere unimportant. Which of these is easiest to picture right now:
+>
+> - somewhere you used to wait
+> - somewhere you worked
+> - somewhere you kept going back to and then stopped
+> - somewhere you slept that wasn't home
+>
+> Any one of them. If none of them land, say so and I'll try a different set.
+
+Three things are doing work there and all three should survive rewording:
+
+- **Unimportant is stated as the preference.** Ask for a significant place and they start auditing
+  their life for something worthy, which is the mechanism that returns the same six stories.
+- **The escape hatch is offered before it is needed.** A person who knows they are allowed to say
+  *nothing comes* will not freeze. A person who does not will perform.
+- **One item, no number.** No quota, no implied length, nothing to fall short of.
+
+Then go straight to Pass 2 on whatever they picked. **Do not collect more places first.**
+
+### Pass 1b — Build the map as a byproduct
+
+The ten-to-twenty list was not a bad thing to want. It was a bad thing to *ask for*. Get it this
+way instead, and it costs the author nothing:
+
+**Every place contains the addresses of other places.** While they describe one room, ask only
+about its edges:
+
+> What was on the other side of that wall? What could you see out of it? How did you get there,
+> and where did you go afterwards?
+
+Each answer names somewhere new. **Write those down silently as map entries and do not chase them
+yet.** Same for any person, object, job or phrase that goes past in a subordinate clause: bank it,
+say nothing, keep going. Interrupting a live memory to file something is how you end a live memory.
+
+Twenty minutes of this yields a longer and far better list than the direct question ever produced,
+because these places arrived attached to something instead of being searched for cold.
+
+When the map has a dozen or so entries, **reflect it back** (see the technique above) and let them
+pick the next door. By then picking is easy, because they are choosing from a list they can see
+rather than generating from a store they cannot search.
+
+### Pressure, and why it is a craft problem rather than a courtesy
+
+A person under mild social pressure retrieves worse. That is not a reason to be gentle for its own
+sake; it is a reason to design the questions so pressure never arises. Concretely:
+
+- **Never ask for a superlative.** The best, the most important, the strangest. Superlatives demand
+  a search of the whole store plus a ranking, and they return the polished anecdote every time.
+- **Never ask for a number of anything.**
+- **Say up front how long this takes and what counts as done.** *A few minutes, and three
+  fragments is a good session* removes the fear of an open-ended interview, which is most of what
+  makes people terse.
+- **A shrug is data. Move.** The silence rule in the techniques above applies *after* a costly
+  answer, never after a cold question. Waiting out a blank is pressure.
+- **Offer a smaller version of any question that lands flat.** Not *tell me about the shop*, but
+  *what was the floor*. The smallest answerable question is nearly always the right next move.
+- **Never ask them to be interesting.** The material is interesting; that is your problem, not
+  theirs. Their job is only to be accurate.
 
 ### Pass 2 — The graphic pass, on one place
 

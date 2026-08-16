@@ -1,0 +1,21 @@
+# Voice bans for this world.  Read by voicecheck.py.
+#
+#   <severity>  <regex>  <message>
+#
+# severity is error or warn.  The regex may not contain a literal space; use \s.
+# Whatever the author strikes, add here WITH THE REASON, because a ban with a
+# reason survives and a list of forbidden words does not.
+#
+# Start small.  Four rules you enforce beat forty you ignore.
+
+# --- machine tells: these ship by default, strike any the author rejects ---
+error  \b(the\s+honest\s+(answer|truth|version|read|case|part|thing))\b   announcing candour instead of exercising it; the next sentence is the honest thing
+error  \bI\s+want\s+to\s+be\s+(honest|clear|direct|upfront)\b             throat-clearing; just say it
+error  \b(load-bearing|linchpin|cornerstone|backbone)\b                   dead structural metaphor; name the function instead
+warn   \bnot\s+only\b.{0,40}\bbut\s+also\b                                antithesis; fine once, fatal at density
+warn   \b(really|very|quite|simply|genuinely|honestly|truly|actually)\b   filler/intensifier; test whether deleting it changes anything
+warn   \bfelt\s+a\s+(profound|deep|strange|sudden)\s+sense\s+of\b         naming the feeling; put it in the furniture
+warn   \bin\s+that\s+moment\b                                             unearned significance
+warn   \bcouldn't\s+help\s+but\b                                          filler construction
+
+# --- this world's own bans go below, added as the author rules on them ---

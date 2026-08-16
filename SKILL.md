@@ -1,6 +1,6 @@
 ---
 name: worldbuild
-description: Build and maintain a fictional universe on disk that is seeded from the author's own memory, then masked and transposed into myth. Use when someone wants to start a story world, seed a world from their real life, add or deepen canon entries (figures, places, routes, legends, vignettes), keep a large invented world internally consistent, or run a bulk expansion pass. Triggers on "build a world", "worldbuilding", "story bible", "start a saga", "seed my world", "my universe", "canon", "expand the world", or a request to turn memories into fiction.
+description: Build and maintain a fictional universe on disk that is seeded from the author's own memory, then masked and transposed into myth. Use when someone wants to start a story world, seed a world from their real life, add or deepen canon entries (figures, places, routes, legends, vignettes), establish or enforce the world's prose voice, choose and weight which writers the world is written through, keep a large invented world internally consistent, or run a bulk expansion pass. Triggers on "build a world", "worldbuilding", "story bible", "start a saga", "seed my world", "my universe", "canon", "expand the world", "the voice of the world", "writer influences", "dial in an influence", or a request to turn memories into fiction. Seeding is one question at a time and never a request for a list of memories.
 ---
 
 # Worldbuild
@@ -15,7 +15,8 @@ not here. Read them every time.
 
 1. Locate the bible root. If the author has not named one, ask once, then remember it.
 2. Read the world's law files in order, from the bible root:
-   `canon/00-laws.md`, `canon/01-structure.md`, and any lexicon or lanes file.
+   `canon/00-laws.md`, `canon/01-structure.md`, the **voice law** and its influence set, and any
+   lexicon or lanes file.
 3. Read the index (`CANON.md` or equivalent) and the **drift registry**.
 4. Read any entry files the task touches.
 
@@ -89,6 +90,34 @@ Follow `canon/01-structure.md`'s schema exactly. Prefer promoting an existing un
 `[[link]]` or a `Deepen-me` seed over inventing from nothing: the world should feel discovered,
 not manufactured. Every entry gets front-matter, a `Connections` list, and a `Deepen-me`.
 
+### 2b. `voice` — establish or revise the register
+
+**Read `references/VOICE.md`.** Use when the world has no voice law yet, when the author strikes
+something in a draft, or when they ask how the prose should sound.
+
+Do not ask the author to specify a voice in the abstract and do not draft a law from nothing for
+approval. Derive it from their captures, show one short test paragraph, and **write down the rule
+behind every correction they make**, not just the instance. The law grows from three or four rules
+to twenty as they rule on things.
+
+The world's voice is a constructed register and is **not** the author's personal writing voice. If
+they have a personal voice profile, it governs what they send as themselves and does not govern the
+fiction. Keep the two in separate files with separate enforcement.
+
+### 2c. `influences` — choose and weight the writers
+
+**Read `references/INFLUENCES.md`.** Use when picking the world's influence set or when the author
+wants a piece written to a particular mix.
+
+**Never ask who their influences are.** It is the same failure as asking for a list of memories:
+a whole-store search with an implied correct answer, returning the writers they think they should
+say. Propose a set derived from what you have seen them respond to and ask **which one is wrong**,
+which is easy to answer where confirmation is not.
+
+A weight is a share of contested decisions, not a share of text. Influences own different channels
+and run simultaneously; the set is chosen for conflict, not agreement. **A mix is composable but not
+measurable** and must never be reported back as a score on finished prose.
+
 ### 3. `new-scene` — write a vignette
 
 400 to 1400 words of prose in the world's voice. Ground it in specific, checkable, second-rate
@@ -132,7 +161,13 @@ rotation axes. Rotation is a measurable property, not a feeling.
 
 ## Reference
 
-- `references/INTERROGATION.md` — the seeding protocol. Required for mode 0.
+- `references/INTERROGATION.md` — the seeding protocol. Required for mode 0. **One question at a
+  time, offered as a menu. It never asks the author for a list of places or memories: that is a
+  generation task under observation, and it returns a pause and four worn anecdotes.**
+- `references/VOICE.md` — establishing a register, the machine tells, the output gate, enforcement.
+  Required for mode 2b and before any prose.
+- `references/INFLUENCES.md` — choosing an influence set and running the dial. Required for 2c.
 - `references/METHOD.md` — the six mechanisms that make this work, and why each exists.
 - `starter-kit/` — templates for a new bible: laws, structure, drift registry, captures,
-  and `baseline.py`.
+  `baseline.py`, plus `voicecheck.py` and a starting `voice-bans.txt` so the voice law is
+  enforceable from day one.
